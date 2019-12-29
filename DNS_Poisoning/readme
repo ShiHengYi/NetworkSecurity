@@ -1,0 +1,1 @@
+The program ¡°dns_attack.c¡± uses ¡°gcc dns_attack.c -o dns_attack1¡± to compile and ¡°sudo ./dns_attack 192.168.15.6 192.168.15.4¡± to run due to my machine set up. 
